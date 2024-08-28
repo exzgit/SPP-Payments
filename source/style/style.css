@@ -1,0 +1,14 @@
+.scrollbar {
+    scrollbar-width: thin;
+    scrollbar-color: #4A5568 #2D3748;
+}
+.scrollbar::-webkit-scrollbar {
+    width: 1px;
+}
+.scrollbar::-webkit-scrollbar-track {
+    background: #2D3748;
+}
+.scrollbar::-webkit-scrollbar-thumb {
+    background-color: #4A5568;
+    border-radius: 8px;
+}

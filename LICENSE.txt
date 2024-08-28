@@ -1,0 +1,17 @@
+Copyright (c) 2024 Exz Developer
+
+All rights reserved.
+
+LICENSE AGREEMENT
+
+This project is the property of Exz Developer. By using this project, you agree to the following terms:
+
+1. Restrictions on Modification: You are not allowed to modify, alter, or adapt the source code or any materials included in this project.
+
+2. Restrictions on Redistribution: You may not distribute, sell, or transfer this project, in whole or in part, to any third party in any form without explicit written permission from the copyright holder.
+
+3. No Warranty: This project is provided "as is", without any warranties, express or implied, including but not limited to implied warranties of merchantability, fitness for a particular purpose, or non-infringement. In no event shall the authors or copyright holders be liable for any claims, damages, or other liabilities, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the project or the use or other dealings in the project.
+
+For further information, please contact officialbangezz@gmail.com.
+
+By using this project, you agree to comply with these terms.
